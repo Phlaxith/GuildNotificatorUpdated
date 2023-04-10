@@ -1,7 +1,7 @@
 ﻿## Title: GuildNotificator
 ## Description: GuildNotificator notice you in chat when a guild mate logs in and logs out
-## AddOnVersion: 1.0.0
-## Version: 1.0.0
+## AddOnVersion: 101
+## Version: 1.0.1
 ## Author: @Llether, (Old: Ayantir, calia1120)
 ## APIVersion: 101037
 ## SavedVariables: GNOTIFICATOR
